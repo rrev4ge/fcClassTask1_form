@@ -56,7 +56,7 @@ form > div input + input {
     justify-content: center;
     font-size: 1.5em;
     padding: 0 1em 1em;
-    /*background: gray;*/
+    background: gray;
     z-index: 2;
 }
 
